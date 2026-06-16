@@ -1,0 +1,17 @@
+{
+  "RandomForest": {
+    "train": 0.9999333333333333,
+    "test_id": 0.8363,
+    "test_ood": 0.2759
+  },
+  "CNN (baseline)": {
+    "train": 0.9202333333333333,
+    "test_id": 0.8688,
+    "test_ood": 0.161
+  },
+  "CNN + ColorAug": {
+    "train": 0.83685,
+    "test_id": 0.8219,
+    "test_ood": 0.8409
+  }
+}
